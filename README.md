@@ -1,5 +1,5 @@
 # Noval Corona Virus (COVID-19) Visualization and Prediction
-<h2> !! ALERT !! </h2>
+<h2> !! IMPORTANT !! </h2>
 <h3> Some plotly graphs are not visible on github. To have a better view of the Notebook, Jupyter nbviewer is recommended.<br></h3>
 <h3>Please Visit the link to have a better visual of this Jupyter Notebook : https://nbviewer.jupyter.org/github/ThejasreeKilari/COVID-19-Visualization-and-Prediction/blob/master/Noval%20Corona%20Virus%202019%20Visualization%20and%20Prediction.ipynb</h3><Br>
 <h2>What is COVID-19 ?</h2>
