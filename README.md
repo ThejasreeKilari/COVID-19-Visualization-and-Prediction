@@ -1,4 +1,7 @@
 # Noval Corona Virus (COVID-19) Visualization and Prediction
+<h2> !! CAUTION !! </h2>
+<h3> Some plotly graphs are not visible on github. To have a better view of the Notebook, Jupyter nbviewer is recommended.<br></h3>
+<h3>Please Visit the link to have a better visual of this Jupyter Notebook : https://nbviewer.jupyter.org/github/ThejasreeKilari/COVID-19-Visualization-and-Prediction/blob/master/Noval%20Corona%20Virus%202019%20Visualization%20and%20Prediction.ipynb</h3><Br>
 <h2>What is COVID-19 ?</h2>
 <h3>COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019. COVID-19 is now a pandemic affecting many countries globally.</h3><br>
 <h2>Transmission Stages</h2>
